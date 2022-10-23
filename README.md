@@ -1,1 +1,1 @@
-# Background-Removal-with-AI-and-Tkinter-for-jpg-images
+# Background-Removal-with-OpenCV-and-Tkinter-for-jpg-images
